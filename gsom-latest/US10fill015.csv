@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYSN","DYSN_ATTRIBUTES","DYXP","DYXP_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10fill015","2009-11","40.52704","-97.59823",,"GENEVA 0.1 W, NE US","1",",N","0",",N","0",",N","1",",N","20091116",",,N","20091116",",,N","25",",,N,16,","1.0",",,N,16,","1.0",",,,N","25",",,,N"
+"US10fill015","2010-12","40.52704","-97.59823",,"GENEVA 0.1 W, NE US","0",",N","0",",N","0",",N","","","","","20101231","+,,N","","","0.0",",,N,31,+","0.0",",,,N","",""
+"US10fill015","2011-01","40.52704","-97.59823",,"GENEVA 0.1 W, NE US","0",",N","0",",N","0",",N","","","","","20110131","+,,N","","","0.0",",,N,31,+","0.0",",,,N","",""
+"US10fill015","2011-02","40.52704","-97.59823",,"GENEVA 0.1 W, NE US","0",",N","0",",N","0",",N","","","","","20110228","+,,N","","","0.0",",,N,28,+","0.0",",,,N","",""

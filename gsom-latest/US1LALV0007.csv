@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYSN","DYSN_ATTRIBUTES","DYXP","DYXP_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1LALV0007","2008-04","30.503685","-90.942407","11.9","DENHAM SPRINGS 1.9 NNE, LA US","","","","","","","","","","","","","","","","","68.6","1,a,,N","",""
+"US1LALV0007","2008-05","30.503685","-90.942407","11.9","DENHAM SPRINGS 1.9 NNE, LA US","","","","","","","","","","","","","","","","","264.8","5,a,,N","",""
+"US1LALV0007","2008-06","30.503685","-90.942407","11.9","DENHAM SPRINGS 1.9 NNE, LA US","","","","","","","","","","","","","","","","","160.2","4,a,,N","",""
+"US1LALV0007","2008-08","30.503685","-90.942407","11.9","DENHAM SPRINGS 1.9 NNE, LA US","","","","","","","","","","","","","","","","","216.6","2,a,,N","",""
+"US1LALV0007","2011-08","30.503685","-90.942407","11.9","DENHAM SPRINGS 1.9 NNE, LA US","3",",N","3",",N","2",",N","0","3,N","20110831","+,3,N","20110802",",,N","0","3,,N,31,+","67.1",",,N,02,","116.7",",,,N","0","3,,,N"

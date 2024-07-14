@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYSN","DYSN_ATTRIBUTES","DYXP","DYXP_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1TXCMR124","2019-10","26.1053522","-97.3114456","4.9","LAGUNA VISTA 1.2 WNW, TX US","","","","","","","","","","","","","","","","","58.9","5,a,,N","",""
+"US1TXCMR124","2019-11","26.1053522","-97.3114456","4.9","LAGUNA VISTA 1.2 WNW, TX US","","","","","","","","","","","","","","","","","58.7",",a,,N","",""
+"US1TXCMR124","2019-12","26.1053522","-97.3114456","4.9","LAGUNA VISTA 1.2 WNW, TX US","0",",N","0",",N","0",",N","0",",N","20191231","+,,N","20191231","+,,N","0",",,N,31,+","0.0",",,N,31,+","0.0",",,,N","0",",,,N"
+"US1TXCMR124","2020-02","26.1053522","-97.3114456","4.9","LAGUNA VISTA 1.2 WNW, TX US","3","4,N","1","4,N","0","4,N","","","","","20200221",",4,N","","","5.3","4,,N,21,","7.1","4,,,N","",""
+"US1TXCMR124","2022-11","26.1053522","-97.3114456","4.9","LAGUNA VISTA 1.2 WNW, TX US","","","","","","","","","","","","","","","","","183.7",",a,,N","",""

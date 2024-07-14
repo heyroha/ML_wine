@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYSN","DYSN_ATTRIBUTES","DYXP","DYXP_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1GAFT0020","2009-01","34.0361","-84.2987","304.5","ROSWELL 3.3 E, GA US","9",",N","5",",N","3",",N","","","","","20090106",",,N","","","40.9",",,N,06,","106.2",",,,N","",""
+"US1GAFT0020","2009-02","34.0361","-84.2987","304.5","ROSWELL 3.3 E, GA US","1",",N","1",",N","0",",N","0","1,N","20090228","+,1,N","20090203",",,N","0","1,,N,28,+","3.0",",,N,03,","3.0",",,,N","0","1,,,N"
+"US1GAFT0020","2009-03","34.0361","-84.2987","304.5","ROSWELL 3.3 E, GA US","","","","","","","","","","","","","","","","","208.7",",a,,N","",""
+"US1GAFT0020","2009-04","34.0361","-84.2987","304.5","ROSWELL 3.3 E, GA US","8","2,N","7","2,N","0","2,N","","","","","20090413",",2,N","","","21.3","2,,N,13,","94.0","2,,,N","",""

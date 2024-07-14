@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYSN","DYSN_ATTRIBUTES","DYXP","DYXP_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US1VAFX0038","2007-06","38.916376","-77.179417","96.0","MCLEAN 1.5 S, VA US","","","","","","","","","","","","","","","","","77.0",",a,,N","",""
+"US1VAFX0038","2007-07","38.916376","-77.179417","96.0","MCLEAN 1.5 S, VA US","4","5,N","4","5,N","0","5,N","0","5,N","20070731","+,5,N","20070705",",5,N","0","5,,N,31,+","11.9","5,,N,05,","27.1","2,a,,N","0","5,,,N"
+"US1VAFX0038","2007-08","38.916376","-77.179417","96.0","MCLEAN 1.5 S, VA US","","","","","","","","","","","","","","","","","83.4","2,a,,N","",""
+"US1VAFX0038","2007-09","38.916376","-77.179417","96.0","MCLEAN 1.5 S, VA US","","","","","","","","","","","","","","","","","15.5","3,a,,N","",""

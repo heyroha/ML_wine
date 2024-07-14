@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","DSNW","DSNW_ATTRIBUTES","DYSN","DYSN_ATTRIBUTES","DYXP","DYXP_ATTRIBUTES","EMSN","EMSN_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES","SNOW","SNOW_ATTRIBUTES"
+"US10lanc041","2010-08","40.792264","-96.692314",,"LINCOLN 1.4 WSW, NE US","7",",N","3",",N","0",",N","","","","","20100824",",,N","","","15.7",",,N,24,","41.2",",,,N","",""
+"US10lanc041","2010-09","40.792264","-96.692314",,"LINCOLN 1.4 WSW, NE US","15",",N","6",",N","1",",N","0","5,N","20100930","+,5,N","20100902",",,N","0","5,,N,30,+","63.5",",,N,02,","114.4",",,,N","0","5,,,N"
+"US10lanc041","2010-10","40.792264","-96.692314",,"LINCOLN 1.4 WSW, NE US","2",",N","1",",N","0",",N","","","","","20101026",",,N","","","2.5",",,N,26,","4.0",",,,N","",""
+"US10lanc041","2010-11","40.792264","-96.692314",,"LINCOLN 1.4 WSW, NE US","6",",N","2",",N","1",",N","","","","","20101112",",,N","","","34.5",",,N,12,","60.3",",,,N","",""
