@@ -18,3 +18,8 @@
 ![image](https://github.com/user-attachments/assets/e1acfbc6-37dc-4f2f-97f9-339f3622dfad)
 ![image](https://github.com/user-attachments/assets/d703fb75-acce-4a4a-937c-84b43d4a5476)
 ![image](https://github.com/user-attachments/assets/2f010072-5ede-4d02-b281-4f285f653433)
+
+---
+
+## File Description
+- country_32 : 32개 주요국가국 2021, 2022 data 저장
